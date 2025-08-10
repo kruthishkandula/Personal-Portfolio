@@ -1,0 +1,50 @@
+/* .Header {
+  background-color: rgba(240, 20, 20, 0.5);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  width: 100vw;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+.nav-item {
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 1rem;
+
+  }
+
+.nav-item-active {
+  background-color: lightcoral;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+
+.nav-item:last-child {
+  margin-right: 0;
+}
+
+.nav-item a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 1s ease-in-out;
+}
+
+.nav-item a:hover {
+  color: #0077ff;
+} */

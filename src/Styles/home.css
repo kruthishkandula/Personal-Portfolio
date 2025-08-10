@@ -1,0 +1,9 @@
+.blog-bg {
+    background-image: url('https://img.freepik.com/premium-vector/stylish-seamless-vector-alphabet-pattern-fashion-repeatable-black-white-trendy-background_547648-3464.jpg');
+}
+
+
+.profileimage {
+    border: 3px solid lightsalmon;
+  box-shadow: 0px 0px 0px 3px lightcoral, 0px 0px 0px 6px lightblue, 0px 0px 0px 9px lightgreen;
+}

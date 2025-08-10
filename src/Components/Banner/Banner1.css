@@ -1,0 +1,17 @@
+.banner-image {
+    /* object-position: center; default value for all screen sizes */
+    max-width: 300px;
+  }
+  
+  @media only screen and (min-width: 700px) {
+    .banner-image {
+      object-position: 30px 50px; /* custom value for screens wider than 700px */
+    }
+  }
+
+  @media only screen and (min-width: 1100px){
+    .banner-image{
+        height: '100%';
+        
+    }
+  }

@@ -1,0 +1,89 @@
+.project-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -15px;
+  }
+  
+  .project-row .col {
+    padding: 15px;
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  @media (min-width: 576px) {
+    .project-row .col {
+      width: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .project-row .col {
+      width: calc(100% / 3);
+      max-width: calc(100% / 3);
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .project-row .col {
+      width: calc(100% / 4);
+      max-width: calc(100% / 4);
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .project-row .col {
+      width: calc(100% / 5);
+      max-width: calc(100% / 5);
+    }
+  }
+
+  .project-card {
+    height: 100%;
+  }
+  
+  .project-image {
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    object-fit: cover;
+  }
+  
+  @media (min-width: 576px) {
+    .project-image {
+      padding-bottom: 66.67%;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .project-image {
+      padding-bottom: 56.25%;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .project-image {
+      padding-bottom: 50%;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .project-image {
+      padding-bottom: 40%;
+    }
+  }
+
+
+  .custom-close-button {
+    color: #fff;
+    background-color: lightcoral;
+    border-color: #dee2e6;
+  }
+  .custom-close-button:hover {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+
+
+ 

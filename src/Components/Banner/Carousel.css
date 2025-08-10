@@ -1,0 +1,24 @@
+.carousel-container {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .carousel-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px; /* Adjust as needed */
+    background-color: transparent; /* Optional */
+    margin: 0 20px; /* Add spacing between images */
+    /* transition: opacity 0.5s ease; Apply fading transition */
+    outline: none;
+  }
+  
+  
+  .carousel-slide img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 15%;
+  }
+  

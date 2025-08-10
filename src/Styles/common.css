@@ -1,0 +1,89 @@
+.project-description {
+  font-size: 1.2rem;
+  }
+  
+  @media (min-width: 576px) {
+  .project-description {
+  font-size: 1.4rem;
+  }
+  }
+  
+  @media (min-width: 768px) {
+  .project-description {
+  font-size: 1.6rem;
+  }
+  }
+  
+  @media (min-width: 992px) {
+  .project-description {
+  font-size: 1.8rem;
+  }
+  }
+  
+  @media (min-width: 1200px) {
+  .project-description {
+  font-size: 2rem;
+  } 
+  }
+
+
+  /* title */
+
+  .title {
+    font-size: 1.2rem;
+    }
+    
+    @media (min-width: 576px) {
+    .title {
+    font-size: 1.4rem;
+    }
+    }
+    
+    @media (min-width: 768px) {
+    .title {
+    font-size: 1.6rem;
+    }
+    }
+    
+    @media (min-width: 992px) {
+    .title {
+    font-size: 1.8rem;
+    }
+    }
+    
+    @media (min-width: 1200px) {
+    .title {
+    font-size: 2rem;
+    } 
+    }
+
+
+/* Heading */
+
+.heading {
+  font-size: 1.2rem;
+  }
+  
+  @media (min-width: 576px) {
+  .heading {
+  font-size: 1.4rem;
+  }
+  }
+  
+  @media (min-width: 768px) {
+  .heading {
+  font-size: 1.6rem;
+  }
+  }
+  
+  @media (min-width: 992px) {
+  .heading {
+  font-size: 1.8rem;
+  }
+  }
+  
+  @media (min-width: 1200px) {
+  .heading {
+  font-size: 2rem;
+  } 
+  }
