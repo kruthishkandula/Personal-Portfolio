@@ -9,7 +9,7 @@ const profileData = {
         { name: 'ReactNative', icon: Icons.ReactNative },
         { name: 'DevOps', icon: Icons.DevOps },
     ],
-    imageUrl: require('../assets/Images/profileImage.jpg'),
+    imageUrl: require('../assets/Images/profileImage2.jpeg'),
     backgroundImageUrl: 'https://miro.medium.com/v2/resize:fit:1100/0*2-iTXwPN4xjD5U3F',
     linkedinUrl: 'https://www.linkedin.com/in/kruthish-kandula-1123ba226',
     mailUrl: 'kruthishkandula1@gmail.com',

@@ -1,6 +1,7 @@
 import React from 'react'
 import { FadeIn } from '../Button/Animated'
 import Typewriter from '../Text/TypeWriter'
+import profileData from '../../Data/profileData'
 
 const Banner1 = ({ name, skills = [], profileImage, designation, backgroundImage }) => {
 
@@ -16,7 +17,7 @@ const Banner1 = ({ name, skills = [], profileImage, designation, backgroundImage
       }}>
         <div className='w-2/5 transform overflow-hidden z-20 order-2 '>
           <img
-            src={require('../../assets/Images/profileImage.jpg')}
+            src={profileData?.imageUrl}
             // src='http://steel-lemon-9flr-master-xgxsiekuhq-as.a.run.app/image/kruthish_profile_pic'
             alt='Kruthish Kandula'
             className='opacity-100 '
